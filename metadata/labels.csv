@@ -1,0 +1,45 @@
+class_id,label,category,canonical_folder,original_directory,image_count
+0,A,Alphabet,A,gestures/0,2400
+1,B,Alphabet,B,gestures/1,2400
+2,C,Alphabet,C,gestures/2,2400
+3,D,Alphabet,D,gestures/3,2400
+4,E,Alphabet,E,gestures/4,2400
+5,F,Alphabet,F,gestures/5,2400
+6,G,Alphabet,G,gestures/6,2400
+7,H,Alphabet,H,gestures/7,2400
+8,I,Alphabet,I,gestures/8,2400
+9,J,Alphabet,J,gestures/9,2400
+10,K,Alphabet,K,gestures/10,2400
+11,L,Alphabet,L,gestures/11,2400
+12,M,Alphabet,M,gestures/12,2400
+13,N,Alphabet,N,gestures/13,2400
+14,O,Alphabet,O,gestures/14,2400
+15,P,Alphabet,P,gestures/15,2400
+16,Q,Alphabet,Q,gestures/16,2400
+17,R,Alphabet,R,gestures/17,2400
+18,S,Alphabet,S,gestures/18,2400
+19,T,Alphabet,T,gestures/19,2400
+20,U,Alphabet,U,gestures/20,2400
+21,V,Alphabet,V,gestures/21,2400
+22,W,Alphabet,W,gestures/22,2400
+23,X,Alphabet,X,gestures/23,2400
+24,Y,Alphabet,Y,gestures/24,2400
+25,Z,Alphabet,Z,gestures/25,2400
+26,0,Digit,0,gestures/26,2400
+27,1,Digit,1,gestures/27,2400
+28,2,Digit,2,gestures/28,2400
+29,3,Digit,3,gestures/29,2400
+30,4,Digit,4,gestures/30,2400
+31,5,Digit,5,gestures/31,2400
+32,6,Digit,6,gestures/32,2400
+33,7,Digit,7,gestures/33,2400
+34,8,Digit,8,gestures/34,2400
+35,9,Digit,9,gestures/35,2400
+36,Best of Luck,Special Gesture,Best_of_Luck,gestures/36,2400
+37,You,Special Gesture,You,gestures/37,2400
+38,I/Me,Special Gesture,I_Me,gestures/38,2400
+39,Like,Special Gesture,Like,gestures/39,2400
+40,Remember,Special Gesture,Remember,gestures/40,2400
+41,Love,Special Gesture,Love,gestures/41,2400
+42,Fuck,Special Gesture,Fuck,gestures/42,2400
+43,I love you,Special Gesture,I_Love_You,gestures/43,2400

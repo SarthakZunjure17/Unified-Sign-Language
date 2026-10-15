@@ -1,0 +1,14 @@
+=== PREPROCESSING DIAGNOSTIC REPORT ===
+roi_bbox: (240, 80, 400, 400)
+contour_area: 4314.5
+bbox_w: 92
+bbox_h: 95
+aspect_ratio: 0.968421052631579
+fg_percent: 2.833125
+hand_detected: True
+rejection_reason: Valid Hand
+extent: 0.493649885583524
+
+Prediction Class: 37
+Prediction Label: You
+Confidence:       94.76%

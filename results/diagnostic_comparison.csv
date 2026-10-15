@@ -1,0 +1,6 @@
+model,normalization,optimizer,batch,test_accuracy,macro_f1,weighted_f1
+Original Pretrained (cnn_model_keras2.h5),"Raw [0, 255]",SGD (Historical),500,99.92%,99.92%,99.92%
+Current Baseline (Experiment A),"Rescaling [0, 1]",SGD (lr=0.01),128,73.53%,68.12%,68.12%
+Experiment B - Adam Optimizer,"Rescaling [0, 1]",Adam,128,99.37%,99.36%,99.36%
+"Experiment C - Original Config (Raw Pixels, SGD, Batch 500)","None [0, 255]",SGD,500,2.27%,0.10%,0.10%
+Experiment D - Modern CNN (BatchNorm + Adam),"None [0, 255]",Adam,128,99.89%,99.89%,99.89%

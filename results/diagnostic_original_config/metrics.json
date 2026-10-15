@@ -1,0 +1,12 @@
+{
+  "experiment": "Experiment C - Original Config (Raw Pixels, SGD, Batch 500)",
+  "test_accuracy": 0.0227,
+  "test_samples": 15840,
+  "macro_precision": 0.0005,
+  "macro_recall": 0.0227,
+  "macro_f1": 0.001,
+  "weighted_precision": 0.0005,
+  "weighted_recall": 0.0227,
+  "weighted_f1": 0.001,
+  "training_time_seconds": 219.27
+}

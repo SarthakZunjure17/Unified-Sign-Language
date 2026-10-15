@@ -1,0 +1,12 @@
+{
+  "experiment": "Experiment D - Modern CNN (BatchNorm + Adam)",
+  "test_accuracy": 0.9989,
+  "test_samples": 15840,
+  "macro_precision": 0.9989,
+  "macro_recall": 0.9989,
+  "macro_f1": 0.9989,
+  "weighted_precision": 0.9989,
+  "weighted_recall": 0.9989,
+  "weighted_f1": 0.9989,
+  "training_time_seconds": 1786.28
+}

@@ -1,0 +1,66 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Trained model checkpoints & weights (except small reference weights)
+*.h5
+*.keras
+*.pt
+*.pth
+*.ckpt
+*.onnx
+
+# Results & temporary files
+results/eval/
+tmp/
+temp/
+*.log
+
+# Datasets & junctions (raw images generated locally or linked)
+dataset/*
+!dataset/.gitkeep
+
+# Pytest cache
+.pytest_cache/
+
+# Debug and temporary inspection frames
+debug_frames/
+debug_out/
+
+# Operating System
+.DS_Store
+Thumbs.db

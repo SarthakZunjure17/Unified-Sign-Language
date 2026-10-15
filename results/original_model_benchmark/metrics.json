@@ -1,0 +1,16 @@
+{
+  "model": "cnn_model_keras2.h5 (Original EvilPort2 Pretrained)",
+  "preprocessing_evaluated": {
+    "raw_0_255_accuracy": 0.9992,
+    "rescaled_0_1_accuracy": 0.9965,
+    "best_mode": "raw [0, 255]"
+  },
+  "test_accuracy": 0.9992,
+  "test_samples": 15840,
+  "macro_precision": 0.9993,
+  "macro_recall": 0.9992,
+  "macro_f1": 0.9992,
+  "weighted_precision": 0.9993,
+  "weighted_recall": 0.9992,
+  "weighted_f1": 0.9992
+}

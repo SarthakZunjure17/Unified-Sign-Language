@@ -1,0 +1,12 @@
+{
+  "experiment": "Experiment B - Adam Optimizer",
+  "test_accuracy": 0.9937,
+  "test_samples": 15840,
+  "macro_precision": 0.9946,
+  "macro_recall": 0.9937,
+  "macro_f1": 0.9936,
+  "weighted_precision": 0.9946,
+  "weighted_recall": 0.9937,
+  "weighted_f1": 0.9936,
+  "training_time_seconds": 282.4
+}

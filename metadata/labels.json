@@ -1,0 +1,354 @@
+[
+  {
+    "class_id": 0,
+    "label": "A",
+    "category": "Alphabet",
+    "canonical_folder": "A",
+    "original_directory": "gestures/0",
+    "image_count": 2400
+  },
+  {
+    "class_id": 1,
+    "label": "B",
+    "category": "Alphabet",
+    "canonical_folder": "B",
+    "original_directory": "gestures/1",
+    "image_count": 2400
+  },
+  {
+    "class_id": 2,
+    "label": "C",
+    "category": "Alphabet",
+    "canonical_folder": "C",
+    "original_directory": "gestures/2",
+    "image_count": 2400
+  },
+  {
+    "class_id": 3,
+    "label": "D",
+    "category": "Alphabet",
+    "canonical_folder": "D",
+    "original_directory": "gestures/3",
+    "image_count": 2400
+  },
+  {
+    "class_id": 4,
+    "label": "E",
+    "category": "Alphabet",
+    "canonical_folder": "E",
+    "original_directory": "gestures/4",
+    "image_count": 2400
+  },
+  {
+    "class_id": 5,
+    "label": "F",
+    "category": "Alphabet",
+    "canonical_folder": "F",
+    "original_directory": "gestures/5",
+    "image_count": 2400
+  },
+  {
+    "class_id": 6,
+    "label": "G",
+    "category": "Alphabet",
+    "canonical_folder": "G",
+    "original_directory": "gestures/6",
+    "image_count": 2400
+  },
+  {
+    "class_id": 7,
+    "label": "H",
+    "category": "Alphabet",
+    "canonical_folder": "H",
+    "original_directory": "gestures/7",
+    "image_count": 2400
+  },
+  {
+    "class_id": 8,
+    "label": "I",
+    "category": "Alphabet",
+    "canonical_folder": "I",
+    "original_directory": "gestures/8",
+    "image_count": 2400
+  },
+  {
+    "class_id": 9,
+    "label": "J",
+    "category": "Alphabet",
+    "canonical_folder": "J",
+    "original_directory": "gestures/9",
+    "image_count": 2400
+  },
+  {
+    "class_id": 10,
+    "label": "K",
+    "category": "Alphabet",
+    "canonical_folder": "K",
+    "original_directory": "gestures/10",
+    "image_count": 2400
+  },
+  {
+    "class_id": 11,
+    "label": "L",
+    "category": "Alphabet",
+    "canonical_folder": "L",
+    "original_directory": "gestures/11",
+    "image_count": 2400
+  },
+  {
+    "class_id": 12,
+    "label": "M",
+    "category": "Alphabet",
+    "canonical_folder": "M",
+    "original_directory": "gestures/12",
+    "image_count": 2400
+  },
+  {
+    "class_id": 13,
+    "label": "N",
+    "category": "Alphabet",
+    "canonical_folder": "N",
+    "original_directory": "gestures/13",
+    "image_count": 2400
+  },
+  {
+    "class_id": 14,
+    "label": "O",
+    "category": "Alphabet",
+    "canonical_folder": "O",
+    "original_directory": "gestures/14",
+    "image_count": 2400
+  },
+  {
+    "class_id": 15,
+    "label": "P",
+    "category": "Alphabet",
+    "canonical_folder": "P",
+    "original_directory": "gestures/15",
+    "image_count": 2400
+  },
+  {
+    "class_id": 16,
+    "label": "Q",
+    "category": "Alphabet",
+    "canonical_folder": "Q",
+    "original_directory": "gestures/16",
+    "image_count": 2400
+  },
+  {
+    "class_id": 17,
+    "label": "R",
+    "category": "Alphabet",
+    "canonical_folder": "R",
+    "original_directory": "gestures/17",
+    "image_count": 2400
+  },
+  {
+    "class_id": 18,
+    "label": "S",
+    "category": "Alphabet",
+    "canonical_folder": "S",
+    "original_directory": "gestures/18",
+    "image_count": 2400
+  },
+  {
+    "class_id": 19,
+    "label": "T",
+    "category": "Alphabet",
+    "canonical_folder": "T",
+    "original_directory": "gestures/19",
+    "image_count": 2400
+  },
+  {
+    "class_id": 20,
+    "label": "U",
+    "category": "Alphabet",
+    "canonical_folder": "U",
+    "original_directory": "gestures/20",
+    "image_count": 2400
+  },
+  {
+    "class_id": 21,
+    "label": "V",
+    "category": "Alphabet",
+    "canonical_folder": "V",
+    "original_directory": "gestures/21",
+    "image_count": 2400
+  },
+  {
+    "class_id": 22,
+    "label": "W",
+    "category": "Alphabet",
+    "canonical_folder": "W",
+    "original_directory": "gestures/22",
+    "image_count": 2400
+  },
+  {
+    "class_id": 23,
+    "label": "X",
+    "category": "Alphabet",
+    "canonical_folder": "X",
+    "original_directory": "gestures/23",
+    "image_count": 2400
+  },
+  {
+    "class_id": 24,
+    "label": "Y",
+    "category": "Alphabet",
+    "canonical_folder": "Y",
+    "original_directory": "gestures/24",
+    "image_count": 2400
+  },
+  {
+    "class_id": 25,
+    "label": "Z",
+    "category": "Alphabet",
+    "canonical_folder": "Z",
+    "original_directory": "gestures/25",
+    "image_count": 2400
+  },
+  {
+    "class_id": 26,
+    "label": "0",
+    "category": "Digit",
+    "canonical_folder": "0",
+    "original_directory": "gestures/26",
+    "image_count": 2400
+  },
+  {
+    "class_id": 27,
+    "label": "1",
+    "category": "Digit",
+    "canonical_folder": "1",
+    "original_directory": "gestures/27",
+    "image_count": 2400
+  },
+  {
+    "class_id": 28,
+    "label": "2",
+    "category": "Digit",
+    "canonical_folder": "2",
+    "original_directory": "gestures/28",
+    "image_count": 2400
+  },
+  {
+    "class_id": 29,
+    "label": "3",
+    "category": "Digit",
+    "canonical_folder": "3",
+    "original_directory": "gestures/29",
+    "image_count": 2400
+  },
+  {
+    "class_id": 30,
+    "label": "4",
+    "category": "Digit",
+    "canonical_folder": "4",
+    "original_directory": "gestures/30",
+    "image_count": 2400
+  },
+  {
+    "class_id": 31,
+    "label": "5",
+    "category": "Digit",
+    "canonical_folder": "5",
+    "original_directory": "gestures/31",
+    "image_count": 2400
+  },
+  {
+    "class_id": 32,
+    "label": "6",
+    "category": "Digit",
+    "canonical_folder": "6",
+    "original_directory": "gestures/32",
+    "image_count": 2400
+  },
+  {
+    "class_id": 33,
+    "label": "7",
+    "category": "Digit",
+    "canonical_folder": "7",
+    "original_directory": "gestures/33",
+    "image_count": 2400
+  },
+  {
+    "class_id": 34,
+    "label": "8",
+    "category": "Digit",
+    "canonical_folder": "8",
+    "original_directory": "gestures/34",
+    "image_count": 2400
+  },
+  {
+    "class_id": 35,
+    "label": "9",
+    "category": "Digit",
+    "canonical_folder": "9",
+    "original_directory": "gestures/35",
+    "image_count": 2400
+  },
+  {
+    "class_id": 36,
+    "label": "Best of Luck",
+    "category": "Special Gesture",
+    "canonical_folder": "Best_of_Luck",
+    "original_directory": "gestures/36",
+    "image_count": 2400
+  },
+  {
+    "class_id": 37,
+    "label": "You",
+    "category": "Special Gesture",
+    "canonical_folder": "You",
+    "original_directory": "gestures/37",
+    "image_count": 2400
+  },
+  {
+    "class_id": 38,
+    "label": "I/Me",
+    "category": "Special Gesture",
+    "canonical_folder": "I_Me",
+    "original_directory": "gestures/38",
+    "image_count": 2400
+  },
+  {
+    "class_id": 39,
+    "label": "Like",
+    "category": "Special Gesture",
+    "canonical_folder": "Like",
+    "original_directory": "gestures/39",
+    "image_count": 2400
+  },
+  {
+    "class_id": 40,
+    "label": "Remember",
+    "category": "Special Gesture",
+    "canonical_folder": "Remember",
+    "original_directory": "gestures/40",
+    "image_count": 2400
+  },
+  {
+    "class_id": 41,
+    "label": "Love",
+    "category": "Special Gesture",
+    "canonical_folder": "Love",
+    "original_directory": "gestures/41",
+    "image_count": 2400
+  },
+  {
+    "class_id": 42,
+    "label": "Fuck",
+    "category": "Special Gesture",
+    "canonical_folder": "Fuck",
+    "original_directory": "gestures/42",
+    "image_count": 2400
+  },
+  {
+    "class_id": 43,
+    "label": "I love you",
+    "category": "Special Gesture",
+    "canonical_folder": "I_Love_You",
+    "original_directory": "gestures/43",
+    "image_count": 2400
+  }
+]
